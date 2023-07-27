@@ -29,7 +29,9 @@ yarn-error.log*
 *.config
 # Python cache
 *.pyc
-/__pycache__/
+__pycache__/
 
 # Cookies file
 *.pkl
+
+*.py[cod]
